@@ -8,25 +8,18 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://go
 |--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
 | Android                                    | 	                                                                            | |
 | Angular                                    | 																			    | |
-| ArchLinux y Derivados                      | 																			    | |
 | AWS Latinoamérica                          | 																			    | |
 | Bases de Datos                             | 																			    | |
-| Bash/Zsh                                   | 																			    | |
+| Bash/Sh                                    | 																			    | |
 | Blender                          | 							                                                    | |
 | C++                                        | 							                                                    | |
 | Computación Física                         | 							                                                    | |
-| Conocimiento Libre                         | 							                                                    | |
-| CSL_VE                                     | 							                                                    | |
 | Data Science                     | 							                                                    | |
-| Datos Abiertos y scraping                  | 							                                                    | |
+| Datos Abiertos                             | 							                                                    | |
 | Desarrollo VideoJuegos                     | 							                                                    | |
 | Django                                     | 							                                                    | |
 | Docker                                     | 							                                                    | |
 | Electrónica                                | 							                                                    | |
-| Elixir                                     | 							                                                    | |
-| E-shops Dev                       | 							                                                    | |
-| Emprendedores                   | 							                                                    | |
-| Firebase                          | 							                                                    | |
 | Fotografía                                 | 							                                                    | |
 | Git                                        | 								                                                | |
 | GLPI y Gestión de Servicios de TI          | 								                                                | |
@@ -43,15 +36,12 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://go
 | Kotlin                                     | 							                                                    | |
 | Laravel                                    | 							                                                    | |
 | LibreOffice                                | 							                                                    | |
-| Libros de Programación                     | 							                                                    | |
-| Libros Técnicos                            | 							                                                    | |
-| Libros (PacktPub)                          | 							                                                    | |
 | Linux                                      | 							                                                    | |
 | Mobile Híbrido                             | 							                                                    | |
 | Mozilla                                    | 							                                                    | |
 | Nginx                                      | 							                                                    | |
 | NoSQL                                      | 							                                                    | |
-| Odoo Devs                                  | 							                                                    | |
+| Odoo                                       | 							                                                    | |
 | PHP                                        | 												                                | |
 | Python                                     | 												                                | |
 | React y React Native                       | 												                                | |
