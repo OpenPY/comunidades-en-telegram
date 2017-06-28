@@ -7,89 +7,66 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://go
 | Comunidad                                  | Administrador                                                                | Link                                                   |
 |--------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------|
 | Android                                    | 	                                                                            | |
-| Android (Soporte Técnico)                  | 																			    | |
 | Angular                                    | 																			    | |
 | ArchLinux y Derivados                      | 																			    | |
 | AWS Latinoamérica                          | 																			    | |
-| Baloncesto                                 | 																			    | |
 | Bases de Datos                             | 																			    | |
-| Bash/Zsh.Ve                                | 																			    | |
-| Bitcoin                                    | 							                                                    | |
-| Blender Venezuela                          | 							                                                    | |
+| Bash/Zsh                                   | 																			    | |
+| Blender                          | 							                                                    | |
 | C++                                        | 							                                                    | |
 | Computación Física                         | 							                                                    | |
 | Conocimiento Libre                         | 							                                                    | |
 | CSL_VE                                     | 							                                                    | |
-| Data Science Venezuela                     | 							                                                    | |
+| Data Science                     | 							                                                    | |
 | Datos Abiertos y scraping                  | 							                                                    | |
 | Desarrollo VideoJuegos                     | 							                                                    | |
 | Django                                     | 							                                                    | |
 | Docker                                     | 							                                                    | |
 | Electrónica                                | 							                                                    | |
 | Elixir                                     | 							                                                    | |
-| E-shops Dev Venezuela                      | 							                                                    | |
-| Emprendedores Venezolanos                  | 							                                                    | |
-| Firebase Venezuela                         | 							                                                    | |
+| E-shops Dev                       | 							                                                    | |
+| Emprendedores                   | 							                                                    | |
+| Firebase                          | 							                                                    | |
 | Fotografía                                 | 							                                                    | |
-| FreeCodeCamp Barquisimeto                  | 								                                                | |
-| FreeCodeCamp Caracas                       | 								                                                | |
-| FreeCodeCamp Coro                          | 								                                                | |
-| Freelancers Venezuela                      | 								                                                | |
 | Git                                        | 								                                                | |
 | GLPI y Gestión de Servicios de TI          | 								                                                | |
 | Go                                         | 								                                                | |
-| Front-End HTML-CSS.ve                      | 								                                                | |
+| Front-End HTML-CSS                         | 								                                                | |
 | iOS                                        | 								                                                | |
 | IoT, SoC, Arduino, Raspberry Pi, Orange Pi | 								                                                | |
 | IT Oriente                                 | 								                                                | |
 | Inteligencia Artificial                    | 								                                                | |
 | Interaction Design                         | 								                                                | |
-| Intercambio Idiomas                        | 								                                                | |
-| JavaScript Venezuela                       | 								                                                | |
+| JavaScript                                 | 								                                                | |
 | Joomla                                     | 								                                                | |
 | Juegos                                     | 								                                                | |
-| Kotlin Venezuela                           | 							                                                    | |
-| Laravel Venezuela                          | 							                                                    | |
-| LibreOffice Venezuela                      | 							                                                    | |
+| Kotlin                                     | 							                                                    | |
+| Laravel                                    | 							                                                    | |
+| LibreOffice                                | 							                                                    | |
 | Libros de Programación                     | 							                                                    | |
 | Libros Técnicos                            | 							                                                    | |
 | Libros (PacktPub)                          | 							                                                    | |
-| Linux Venezuela                            | 							                                                    | |
-| Matemáticas                                | 							                                                    | |
+| Linux                                      | 							                                                    | |
 | Mobile Híbrido                             | 							                                                    | |
 | Mozilla                                    | 							                                                    | |
-| Nginx Venezuela                            | 							                                                    | |
-| NoSQL Venezuela                            | 							                                                    | |
-| Odoo Venezuela Devs                        | 							                                                    | |
-| Ofertas de Empleo                          | 							                                                    | |
-| Pentaho                                    | 							                                                    | |
-| PHP Venezuela                              | 												                                | |
-| Plone Venezuela                            | 												                                | |
-| Programadores Venezuela                    | 												                                | |
-| Python Venezuela                           | 												                                | |
-| RadioGNU                                   | 												                                | |
-| Radiotransmisores                          | 												                                | |
-| Rails Girls Venezuela                      | 												                                | |
+| Nginx                                      | 							                                                    | |
+| NoSQL                                      | 							                                                    | |
+| Odoo Devs                                  | 							                                                    | |
+| PHP                                        | 												                                | |
+| Python                                     | 												                                | |
 | React y React Native                       | 												                                | |
-| Realidad Aumentada Ve                      | 												                                | |
+| Realidad Aumentada                         | 												                                | |
 | Redes de datos y servidores                | 												                                | |
-| Robotica Venezuela                         | 												                                | |
+| Robotica                                   | 												                                | |
 | Ruby                                       | 												                                | |
 | SEO                                        | 												                                | |
-| Security VE                                | 												                                | |
-| SIGESP                                     | 												                                | |
-| ST.ve                                      | 												                                | |
+| Security                                   | 												                                | |
 | Symfony                                    | 												                                | |
-| SysAdminVE                                 | 												                                | |
-| Tabletas Canaima                           | 												                                | |
-| Telegram Venezuela                         | 												                                | |
+| SysAdmi                                    | 												                                | |
 | Ubuntu                                     | 												                                | |
-| VIM Venezuela                              | 												                                | |
-| Vue.js                                     | 												                                | |
-| Wikimedia Venezuela                        | 												                                | |
-| Women in Tech                              | 												                                | |
-| Wordpress Venezuela                        | 												                                | |
-| Yii Venezuela                              |                                               								| |
+| VIM                                        | 												                                | |
+| Wordpress                                  | 												                                | |
+| Yii                                        |                                               								| |
 | XANADU GNU/linux                           |                                                                    			| |
 
 
