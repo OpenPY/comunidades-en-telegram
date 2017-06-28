@@ -1,6 +1,6 @@
-# Comunidades Tecnológicas de Parag en Telegram
+# Comunidades Tecnológicas de Paraguay en Telegram
 
-[![Join the chat at https://gitter.im/OpenVE/comunidades-en-telegram](https://badges.gitter.im/OpenVE/comunidades-en-telegram.svg)](https://gitter.im/OpenVE/comunidades-en-telegram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/OpenPY-comunidades-en-telegram](https://badges.gitter.im/OpenPY/comunidades-en-telegram.svg)](https://gitter.im/OpenPY/comunidades-en-telegram?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.me/openve
 
